@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-learn.iml" filepath="$PROJECT_DIR$/.idea/go-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson05/.idea/lesson05.iml" filepath="$PROJECT_DIR$/../lesson05/.idea/lesson05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson06/.idea/lesson06.iml" filepath="$PROJECT_DIR$/../lesson06/.idea/lesson06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson07/.idea/lesson07.iml" filepath="$PROJECT_DIR$/../lesson07/.idea/lesson07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson08/.idea/lesson08.iml" filepath="$PROJECT_DIR$/../lesson08/.idea/lesson08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson09/.idea/lesson09.iml" filepath="$PROJECT_DIR$/../lesson09/.idea/lesson09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson10/.idea/lesson10.iml" filepath="$PROJECT_DIR$/../lesson10/.idea/lesson10.iml" />
+    </modules>
+  </component>
+</project>
